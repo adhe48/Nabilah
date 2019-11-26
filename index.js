@@ -297,7 +297,7 @@ const getkodevoucher = (sessionnya, uniknya, aksesnya) => new Promise((resolve, 
        
         
         console.log(chalk.green("Trying to redeem it for you boss!"))
-        const kodevoucher = "GOFOODBOBA07"
+        const kodevoucher = "GOFOODSANTAI19"
 
         const redeem = await functionredeemvoc(kodevoucher, sessionnya, uniknya, aksesnya)
         // console.log(redeem)
